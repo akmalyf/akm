@@ -1,0 +1,89 @@
+.row {
+	margin: 0px;
+}
+.center{
+	text-align: center;
+}
+.nav-link {
+	color: #3ab34a
+}
+.footer{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #3ab34a;
+	color: #f1f0f0;
+}
+.header{
+	z-index: 1000;
+	background: transparent;
+	-webkit-transition: all ease-out .5s;
+  -moz-transition: all ease-out .5s;
+  -o-transition: all ease-out .5s;
+  transition: all ease-out .5s;
+}
+.active {
+  background-color: #ffffff;
+  box-shadow: 0 1px 12px 0 rgba(0, 0, 0, 0.2);
+}
+.slider{
+	padding: 0px;
+}
+.img-slider{
+	width: 100%;
+	height: 520px;
+}
+.footer1{
+	border-color: #f1f0f0;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.footer-copy{
+	border-top: 1px solid #5be66e;
+	padding-top: 20px;
+}
+.content{
+	padding-top: 500px;
+	padding-bottom: 500px;
+}
+.scroll{
+	height: 100%;
+	overflow: scroll;
+}
+.shadow{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.label{
+	background-color: #3ab34a;
+	padding: 5px;
+	color: #ffffff;
+}
+.skill-box{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+/*.hideMe {
+    -moz-animation: cssAnimation 0s ease-in 3s forwards;
+    /* Firefox */
+    -webkit-animation: cssAnimation 0s ease-in 3s forwards;
+    /* Safari and Chrome */
+    -o-animation: cssAnimation 0s ease-in 3s forwards;
+    /* Opera */
+    animation: cssAnimation 0s ease-in 3s forwards;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+    color: #2baf49;
+}
+@keyframes cssAnimation {
+    to {
+        width:0;
+        height:0;
+        overflow:hidden;
+    }
+}
+@-webkit-keyframes cssAnimation {
+    to {
+        width:0;
+        height:0;
+        visibility:hidden;
+    }
+}*/
